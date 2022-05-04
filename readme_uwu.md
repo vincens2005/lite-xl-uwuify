@@ -1,6 +1,6 @@
 # wite-xw-uwuifiew
 
-[uwu'd weadme](weadme_uwu.md)
+[nowmaw weadme](readme.md)
 
 ## t-this pwugin h-has onwy been tested o-on winux. /(^•ω•^) 
 
@@ -21,4 +21,4 @@ it wiww uwuify youw sewection, rawr x3 ow the whowe doc if nyothing is sewected.
 
 
 ### h-how?
-this is just a wua binding made fwom a c binding i made of [this w-wust wibwawy](https://github.com/daniew-wiu-c0deb0t/uwu)
+this is just a wua binding made fwom a c binding i made of [this w-wust wibwawy](https://github.com/Daniel-Liu-c0deb0t/uwu)
