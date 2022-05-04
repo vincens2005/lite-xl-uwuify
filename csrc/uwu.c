@@ -14,7 +14,7 @@ static int f_uwuify(lua_State *L) {
 	
 	const char *uwued = uwuify(s);
 	lua_pushstring(L, uwued);
-	return 0;
+	return 1;
 }
 
 static const struct luaL_Reg lib[] = {
