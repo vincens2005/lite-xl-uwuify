@@ -2,7 +2,6 @@
 name = "litexl-uwufier"
 version = "0.1.0"
 edition = "2021"
-crate-type = ["staticlib"]
 
 [lib]
 name = "uwuify_c"
@@ -13,5 +12,5 @@ crate-type = ["staticlib"]
 
 [dependencies]
 uwuify = "0.2.2"
-libc = "0.2.125"
+libc = "0.2.85"
 c_string = "0.7.2"

@@ -1,1 +1,4 @@
-const char* uwuify(char *o);
+#ifndef UWU
+	#define UWU
+	const char* uwuify(char *o);
+#endif
